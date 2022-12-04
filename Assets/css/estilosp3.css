@@ -1,0 +1,24 @@
+
+.secC{
+    background-color: #d1cbf9;
+}
+
+.trc{
+    background-color:#6b8dff;
+    font-family: 'Acme', sans-serif;
+}
+
+#Lp{
+    position: relative;
+    right: 85%;
+    bottom: 41px;
+    height: 5px;
+}
+
+#lp{
+    width: 200px;
+}
+
+#titulo{
+color: #F0CCFF;
+}

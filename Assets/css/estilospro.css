@@ -1,0 +1,8 @@
+.tablesp{
+    width: 25rem;
+    max-width: 25rem;
+    display: flex;
+    text-align:center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

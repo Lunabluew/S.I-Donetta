@@ -1,0 +1,99 @@
+#rosquilla{
+    width: 100%;
+    }
+
+    .conten{
+        position: relative;
+        left: -10%;
+        bottom: 10px;
+        width: 20%;
+    }
+
+#cliente{
+    width: 30%; 
+}
+    
+    .conten1{
+        position: relative;
+        left: 60%;
+        bottom: 48px;
+        width: 76%;
+    }
+
+.grafica{
+    width: 25px;
+}
+
+.btnsalir{
+    background-color: #3F3F3F;
+    cursor: pointer;
+    border: none;
+    padding: 16px 32px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    position: relative;
+    border-radius: 12px;
+    font-family: 'Acme', sans-serif;
+}
+
+.btnsalir::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg,
+    #FFDDDD, #CDE1E8, deeppink, #B2D3E2,
+    #FFDDDD, #CDE1E8, deeppink, #B2D3E2
+    );
+    background-size: 800%;
+    border-radius: 10px;
+    filter: blur(8px);
+    animation: glowing 20s linear infinite;
+}
+
+@keyframes glowing{
+    0%{
+        background-position: 0 0;
+    }
+    50%{
+        background-position: 400% 0;
+    }
+    100%{
+        background-position: 0 0;
+    }
+}
+
+#Lp{
+    position: relative;
+    right: 75%;
+    bottom: 41px;
+    height: 5px;
+}
+
+#icon{
+    color: white;
+}
+
+#cardVen{
+    position: relative;
+    left: 105%;
+    bottom: 330px;
+    font-family: 'Acme', sans-serif;
+}
+#hv{
+    text-align: center;
+}
+
+.vendedora{
+    width: 25%;
+}
+
+.vendedor{
+    width: 25%;
+    position: relative;
+    left: 250px;
+}

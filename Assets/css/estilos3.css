@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Fredoka+One&family=Poppins:wght@300&display=swap');
+
+#conten4{
+    background-size: 80vh 200%;
+    background-color: #d1cbf9;
+}
+#h2rv{
+    color: black;
+    font-family: 'Fredoka One', cursive;
+}
+#conten5{
+    background-color:#6b8dff;
+    background-size: 80vh 200%;
+}
+#t2{
+    background-color:#6b8dff;
+    color: black;
+    font-family: 'Acme', sans-serif;
+}
+#donut{
+   width: 300px;
+   position: relative;
+   left: 115%;
+   bottom: 146px;
+}
+
+.Dclientes{
+    border-color: black;
+    font-family: 'Acme', sans-serif;
+}

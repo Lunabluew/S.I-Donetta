@@ -1,0 +1,40 @@
+.h5A{ 
+-webkit-text-fill-color: #F0CCFF;
+-webkit-text-stroke: 1px black;
+}
+
+.h5R{
+-webkit-text-fill-color: #F0CCFF;
+-webkit-text-stroke: 1px black;
+position: relative;
+left: 2%;
+}
+#titulo{
+-webkit-text-fill-color:rgb(241, 227, 227);
+-webkit-text-stroke: 1px #F0CCFF;
+position: relative;
+left: 2%;
+}
+
+.pagea{
+    background-color: #d1cbf9;
+}
+
+#cardA{
+    background-color: #fabfb7;
+    font-family: 'Acme', sans-serif;
+}
+
+#cardB{
+    background-color: #fdf9c4;
+    font-family: 'Acme', sans-serif;
+}
+#cardC{
+    background-color: #ffda9e;
+    font-family: 'Acme', sans-serif;
+}
+#cardD{
+    background-color: #b2e2f2;
+    font-family: 'Acme', sans-serif;
+}
+

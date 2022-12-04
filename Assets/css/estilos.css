@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Fredoka+One&family=Poppins:wght@300&display=swap');
+
+#conten2{
+    background-size: 80vh 200%;
+    background-color:#6b8dff;
+}
+
+#conten1{
+ background-color: #d1cbf9;
+ 
+ 
+}
+
+#txt{
+    color: black;
+    font-family: 'Acme', sans-serif;
+}
+
+#h21{
+    color: black;
+    font-family: 'Fredoka One', cursive;
+}
+#tr1{
+    background-color:#6b8dff;
+    
+}
+#t1{
+    border: #563111;
+}
+.buttom{
+    background-color:#FFC6F4;
+}
+#boton1{
+    background-color: #A79AFF;
+}
+
+
+
